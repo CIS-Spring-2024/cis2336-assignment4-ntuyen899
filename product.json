@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "French Toast ",
+        "Category": "Breakfast",
+        "price": 20,
+        "image": "images/breakfast1.png"
+    },
+    {
+        "id": 2,
+        "name": "Acai Bowl",
+        "Category": "Breakfast",
+        "price": 20,
+        "image": "images/breakfast2.png"
+    },
+    {
+        "id": 3,
+        "name": "Egg & Sausage Bagel",
+        "Category": "Breakfast",
+        "price": 20,
+        "image": "images/breakfast3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Chicken Club Sandwhich",
+        "Category": "Lunch",
+        "price": 25,
+        "image": "images/lunch1.png"
+    },
+    {
+        "id": 5,
+        "name": "Market's Salad",
+        "Category": "Lunch",
+        "price": 25,
+        "image": "images/lunch2.png"
+    },
+    {
+        "id": 6,
+        "name": "Birria Tacos",
+        "Category": "Lunch",
+        "price": 25,
+        "image": "images/lunch3.png"
+    },
+    {
+        "id": 7,
+        "name": "Alfredo Pasta",
+        "Category": "Dinner",
+        "price": 30,
+        "image": "images/dinner1.png"
+    },
+    {
+        "id": 8,
+        "name": "Roasted Prime Ribs",
+        "Category": "Dinner",
+        "price": 30,
+        "image": "images/dinner2.png"
+    },
+    {
+        "id": 9,
+        "name": "Grilled Salmon",
+        "Category": "Dinner",
+        "price": 30,
+        "image": "images/dinner3.png"
+    },
+    {
+        "id": 10,
+        "name": "Fruit Tarts",
+        "Category": "Dessert",
+        "price": 12,
+        "image": "images/dessert1.png"
+    },
+    {
+        "id": 11,
+        "name": "Tiramisu",
+        "Category": "Dessert",
+        "price": 12,
+        "image": "images/dessert2.png"
+    },
+    {
+        "id": 12,
+        "name": "Fresh Fruits",
+        "Category": "Dessert",
+        "price": 12,
+        "image": "images/dessert3.png"
+    }
+]
